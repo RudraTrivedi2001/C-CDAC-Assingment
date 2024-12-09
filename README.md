@@ -30,4 +30,4 @@ This repository contains C++ programs assigned by CDAC faculty. The programs are
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/RudraTrivedi2001/Cpp-CDAC-Assingment.git
